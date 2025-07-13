@@ -35,18 +35,18 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Hybrid Interval Models for Time Series</h3>
+      <h3 align="center">Hybrid Interval Models for Imprecise Regression</h3>
       <div align="center">
         <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Lien vers le projet">
           <img src="deep.png" alt="Description de l'image" width="400" />
         </a>
         <p>
-          Recherche sur des modèles hybrides pour générer des prévisions de séries temporelles avec des intervalles de confiance robustes et fiables.
+          Code et rapport de mon stage au LIP6 ( laboratoire d'informatique paris 6) ou j'ai conçu et dévelloper un model hybride de regresion imprecis. 
         </p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
         </p>
         <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Voir le Projet">
           <img src="https://img.shields.io/badge/Voir le Projet-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet sur GitHub"/>
@@ -54,18 +54,18 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Reinforcement Learning Research</h3>
+      <h3 align="center"> Reinforcement Learning </h3>
       <div align="center">
         <a href="https://github.com/Isaac-KD/RL-research-project" title="Lien vers le projet">
           <img src="[URL_GIF_OU_IMAGE_PROJET_2]" alt="Agent RL en action" width="400">
         </a>
         <p>
-          Implémentation et analyse d'algorithmes d'apprentissage par renforcement profond pour le contrôle autonome dans des environnements complexes (OpenAI Gym).
+          Implémentation d'algorithmes d'apprentissage par renforcement pour le contrôle d'un vehicule pour un jeux de course .
         </p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-          <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge" alt="OpenAI Gym"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
         </p>
         <a href="https://github.com/Isaac-KD/RL-research-project" title="Voir le Projet">
           <img src="https://img.shields.io/badge/Voir le Projet-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet sur GitHub"/>
