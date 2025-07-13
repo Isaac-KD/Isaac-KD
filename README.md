@@ -18,8 +18,8 @@
 
 | Catégorie      | Outils                                                                                                                                                                                               |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Langages**   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
-| **ML / DL**    | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> |
+| **Langages**   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
+| **ML / DL**    | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> |
 | **Calcul Sci.**| <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
 | **Outils**     | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> |
 
@@ -38,7 +38,6 @@
       <h3 align="center">Hybrid Interval Models for Imprecise Regression</h3>
       <div align="center">
         <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Lien vers le projet">
-          <img src="deep.png" alt="Description de l'image" width="400" />
         </a>
         <p>
           Code et rapport de mon stage au LIP6 ( laboratoire d'informatique paris 6) ou j'ai conçu et dévelloper un model hybride de regresion imprecis. 
@@ -57,7 +56,6 @@
       <h3 align="center"> Reinforcement Learning </h3>
       <div align="center">
         <a href="https://github.com/Isaac-KD/RL-research-project" title="Lien vers le projet">
-          <img src="[URL_GIF_OU_IMAGE_PROJET_2]" alt="Agent RL en action" width="400">
         </a>
         <p>
           Implémentation d'algorithmes d'apprentissage par renforcement pour le contrôle d'un vehicule pour un jeux de course .
