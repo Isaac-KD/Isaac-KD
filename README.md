@@ -32,12 +32,12 @@ Voici une sélection de projets qui représentent le mieux mes compétences et m
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/[VOTRE_PSEUDO_GITHUB_ICI]/[NOM_DU_REPO_1]" target="_blank">
+      <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE_PSEUDO_GITHUB_ICI]&repo=[NOM_DU_REPO_1]&theme=dracula&show_owner=true" alt="Carte du projet 1">
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/[VOTRE_PSEUDO_GITHUB_ICI]/[NOM_DU_REPO_2]" target="_blank">
+      <a href="[https://github.com/[VOTRE_PSEUDO_GITHUB_ICI]/[NOM_DU_REPO_2]](https://github.com/Isaac-KD/RL-research-project)" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=[VOTRE_PSEUDO_GITHUB_ICI]&repo=[NOM_DU_REPO_2]&theme=dracula&show_owner=true" alt="Carte du projet 2">
       </a>
     </td>
