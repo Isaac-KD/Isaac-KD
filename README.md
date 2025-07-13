@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://media3.giphy.com/media/w2jRBpqRTuE1Hejryc/giphy.gif" width="300" alt="GIF animé développeur" />
+      <img src="https://media3.giphy.com/media/w2jRBpqRTuE1Hejryc/giphy.gif" width="350" alt="GIF animé développeur" />
     </td>
     <td width="60%" valign="top">
 
@@ -22,7 +22,6 @@
 | **Calcul Sci.**| <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
 | **Outils**     | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> |
 
-    </td>
   </tr>
 </table>
 
