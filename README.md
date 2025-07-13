@@ -1,7 +1,3 @@
-<!-- Bannière d'accueil -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtqaWo5bTZmNWx4cGw5anR2NG9vcGloNzI2YWl5bW9neGEzbnpnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZGgKm3w5k7xeKVU2l/giphy.gif" alt="Bannière Isaac K.D."/>
-</p>
 
 <!-- Introduction centrée et percutante -->
 <div align="center">
@@ -10,19 +6,15 @@
 
 </div>
 
-<!-- Liens Sociaux / Contact -->
-<p align="center">
-  <a href="mailto:VOTRE_ADRESSE_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="URL_DE_VOTRE_PROFIL_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
+<table>
+  <tr>
+    <td width="40%" align="center" valign="top">
+      <img src="https://media3.giphy.com/media/w2jRBpqRTuE1Hejryc/giphy.gif" width="300" alt="GIF animé développeur" />
+    </td>
+    <td width="60%" valign="top">
 
-### 🛠️ **Ma Boîte à Outils Technique**
+### 🛠️ Ma Boîte à Outils Technique
 
 | Catégorie      | Outils                                                                                                                                                                                               |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,6 +22,11 @@
 | **ML / DL**    | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> |
 | **Calcul Sci.**| <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
 | **Outils**     | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> |
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -41,7 +38,7 @@
       <h3 align="center">Hybrid Interval Models for Time Series</h3>
       <div align="center">
         <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Lien vers le projet">
-          <img src="[URL_GIF_OU_IMAGE_PROJET_1]" alt="Visualisation du modèle hybride" width="400">
+          <img src="deep.png" alt="Description de l'image" width="400" />
         </a>
         <p>
           Recherche sur des modèles hybrides pour générer des prévisions de séries temporelles avec des intervalles de confiance robustes et fiables.
