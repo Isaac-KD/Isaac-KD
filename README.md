@@ -1,80 +1,79 @@
+<!-- Bannière d'accueil -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtqaWo5bTZmNWx4cGw5anR2NG9vcGloNzI2YWl5bW9neGEzbnpnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZGgKm3w5k7xeKVU2l/giphy.gif" alt="Bannière Isaac K.D."/>
+</p>
+
+<!-- Introduction centrée et percutante -->
 <div align="center">
 
-  <!-- GIF élégant au-dessus du titre -->
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Welcome animation" width="250" style="border-radius: 12px;" />
-
-  <h1 style="margin-top: 0.5em; font-weight: 700; color: #2c3e50;">
-    Bonjour, je suis Isaac Kinane 👋
-  </h1>
-  
-  <h3 style="font-weight: 400; color: #34495e; max-width: 600px; margin: 0 auto;">
-    Je transforme des idées complexes en solutions intelligentes grâce au code.
-  </h3>
-  
-  <p style="color: #7f8c8d; font-size: 17px; max-width: 600px; margin: 1em auto 2em auto;">
-    Étudiant en M1 Machine Learning, IA & Données à <strong>Sorbonne Université</strong>, spécialisé en Deep Learning et Reinforcement Learning.
-  </p>
-  
-  <!-- Liens sociaux -->
-  <p>
-    <a href="https://www.linkedin.com/in/isaac-kinane" target="_blank" rel="noopener noreferrer" style="margin-right: 1em;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:isaac.kinane@example.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+> Chercheur passionné à l'intersection de l'apprentissage statistique et de l'optimisation. <br/> Mon objectif : développer des modèles robustes et intelligents pour résoudre des problèmes complexes.
 
 </div>
 
+<!-- Liens Sociaux / Contact -->
+<p align="center">
+  <a href="mailto:VOTRE_ADRESSE_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="URL_DE_VOTRE_PROFIL_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 ---
 
-### ✨ Projets mis en avant
+### 🛠️ **Ma Boîte à Outils Technique**
 
-<table width="100%" style="margin-top: 1em;">
+| Catégorie      | Outils                                                                                                                                                                                               |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Langages**   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> |
+| **ML / DL**    | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> |
+| **Calcul Sci.**| <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
+| **Outils**     | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> |
+
+---
+
+### 🚀 **Mes Projets de Recherche Principaux**
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-KD&repo=Hybrid-Interval-Models&theme=dracula&show_owner=true" alt="Projet Hybrid Interval Models" />
-      </a>
+    <td width="50%">
+      <h3 align="center">Hybrid Interval Models for Time Series</h3>
+      <div align="center">
+        <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Lien vers le projet">
+          <img src="[URL_GIF_OU_IMAGE_PROJET_1]" alt="Visualisation du modèle hybride" width="400">
+        </a>
+        <p>
+          Recherche sur des modèles hybrides pour générer des prévisions de séries temporelles avec des intervalles de confiance robustes et fiables.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        </p>
+        <a href="https://github.com/Isaac-KD/Hybrid-Interval-Models" title="Voir le Projet">
+          <img src="https://img.shields.io/badge/Voir le Projet-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet sur GitHub"/>
+        </a>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Isaac-KD/RL-research-project" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-KD&repo=RL-research-project&theme=dracula&show_owner=true" alt="Projet RL Research Project" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding-top: 1em;">
-      <a href="https://github.com/RayaneNasri/Stable-marriage-problem" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RayaneNasri&repo=Stable-marriage-problem&theme=dracula&show_owner=true" alt="Projet Stable Marriage Problem" />
-      </a>
-    </td>
-    <td width="50%" valign="top" style="padding-top: 1em;">
-      <a href="https://github.com/Isaac-KD/Projet-SDD" target="_blank" rel="noopener noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaac-KD&repo=Projet-SDD&theme=dracula&show_owner=true" alt="Projet SDD" />
-      </a>
+    <td width="50%">
+      <h3 align="center">Reinforcement Learning Research</h3>
+      <div align="center">
+        <a href="https://github.com/Isaac-KD/RL-research-project" title="Lien vers le projet">
+          <img src="[URL_GIF_OU_IMAGE_PROJET_2]" alt="Agent RL en action" width="400">
+        </a>
+        <p>
+          Implémentation et analyse d'algorithmes d'apprentissage par renforcement profond pour le contrôle autonome dans des environnements complexes (OpenAI Gym).
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+          <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge" alt="OpenAI Gym"/>
+        </p>
+        <a href="https://github.com/Isaac-KD/RL-research-project" title="Voir le Projet">
+          <img src="https://img.shields.io/badge/Voir le Projet-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet sur GitHub"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Langages et outils
-
-<p align="center" style="margin-top: 1em;">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-</p>
-
----
-
-### 📈 Mon activité GitHub
-
-<p align="center" style="margin-top: 1em;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaac-KD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistiques GitHub d'Isaac" />
-</p>
