@@ -1,10 +1,9 @@
-
-<!-- Introduction centrée et percutante -->
 <div align="center">
 
-> Chercheur passionné à l'intersection de l'apprentissage statistique et de l'optimisation. <br/> Mon objectif : développer des modèles robustes et intelligents pour résoudre des problèmes complexes.
+🎓 *Étudiant en Master 1 MIND à **Sorbonne Université** | Apprentissage Statistique & Modèles Intelligents*
 
 </div>
+
 
 ---
 <table>
