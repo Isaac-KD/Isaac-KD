@@ -26,7 +26,7 @@
 
 ---
 
-### **Mes Projets de Recherche Principaux**
+### **Mes Projets Principaux**
 
 <table width="100%">
   <tr>
