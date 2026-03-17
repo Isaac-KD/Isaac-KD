@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="https://media3.giphy.com/media/w2jRBpqRTuE1Hejryc/giphy.gif" width="350" alt="GIF animé développeur" />
+      <img src="http://karpathy.github.io/assets/rl/pong.gif" width="350" alt="GIF animé développeur" />
     </td>
     <td width="60%" valign="top">
 
