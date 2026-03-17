@@ -3,6 +3,8 @@
 🎓 *Étudiant en Master 1 MIND à **Sorbonne Université** | Machine Learning, AI and Data*
 
 </div>
+<h3>🛠️ Ma Boîte à Outils Technique </h3>
+
 
 ---
 <table>
@@ -11,8 +13,6 @@
       <img src="http://karpathy.github.io/assets/rl/pong.gif" width="350" alt="GIF animé développeur" />
     </td>
     <td width="60%" valign="top">
-
-### 🛠️ Ma Boîte à Outils Technique
 
 | Catégorie      | Outils                                                                                                                                                                                             |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
