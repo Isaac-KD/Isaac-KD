@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
         <br><br>
-        <a href="https://github.com/Isaac-KD/RL-research-project">
+        <a href="https://github.com/Isaac-KD/Renforcement-Learning-for-Games">
           <img src="https://img.shields.io/badge/Dépôt_GitHub-black?style=for-the-badge&logo=github"/>
         </a>
       </div>
