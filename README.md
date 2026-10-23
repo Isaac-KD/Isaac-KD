@@ -1,6 +1,6 @@
 <div align="center">
 
-🎓 *Étudiant en Master 1 MIND à **Sorbonne Université** | Machine Learning, AI and Data*
+🎓 *Étudiant en Master 2 MVA à **ENS Paris-Saclay** | Mathématiques, Vision, Apprentisage*
 
 </div>
 <h3>🛠️ Ma Boîte à Outils Technique </h3>
