@@ -99,7 +99,7 @@
           <img src="https://img.shields.io/badge/Dépôt_GitHub-black?style=for-the-badge&logo=github"/>
         </a>
       </div>
-            </div>
+      </div>
       <br>
       <hr> 
       <h4 align="center"> Explainable-Machine-Learning</h4>
@@ -110,6 +110,19 @@
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <br><br>
         <a href="https://github.com/Isaac-KD/Explainable-Machine-Learning">
+          <img src="https://img.shields.io/badge/Dépôt_GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+      </div>
+  </div>
+      <br>
+      <hr> 
+      <h4 align="center">Guided-Traversal-Engine </h4>
+      <p align="center"></p>
+      <div align="center">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/Isaac-KD/guided-traversal-engine ">
           <img src="https://img.shields.io/badge/Dépôt_GitHub-black?style=for-the-badge&logo=github"/>
         </a>
       </div>
